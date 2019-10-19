@@ -52,3 +52,7 @@
 ### Ferramentas Visuais para utilizar o Git
 * Github Desktop
 * SourceTree
+
+### E-mails para contato:
+* diego.pessoa@ifpb.edu.br
+* diogo.moreira@ifpb.edu.br
