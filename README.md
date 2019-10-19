@@ -54,5 +54,5 @@
 * SourceTree
 
 ### E-mails para contato:
-* diego.pessoa@ifpb.edu.br
+* diego.pessoa@ifpb.edu.br /diegoetc@gmail.com
 * diogo.moreira@ifpb.edu.br / diogo.dmoreira@gmail.com
