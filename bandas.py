@@ -8,6 +8,8 @@ def get_info(band):
     print("Resultado da sua busca")
     print("Artista = %s" % result['artists'][0]['strArtist'])
     print("Biografia = %s" % result['artists'][0]['strBiographyPT'])
+    print("País = %s" % result['artists'][0]['strCountry'])
+
 
 if __name__ == "__main__":
     banda = input("Digite o nome da sua banda favorita: ")
