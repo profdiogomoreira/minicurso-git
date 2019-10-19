@@ -55,4 +55,4 @@
 
 ### E-mails para contato:
 * diego.pessoa@ifpb.edu.br
-* diogo.moreira@ifpb.edu.br
+* diogo.moreira@ifpb.edu.br / diogo.dmoreira@gmail.com
