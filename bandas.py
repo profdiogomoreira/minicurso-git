@@ -9,7 +9,6 @@ def get_info(band):
     print("Artista = %s" % result['artists'][0]['strArtist'])
     print("Genero = %s" % result['artists'][0]['strGenre'])
     print("Biografia = %s" % result['artists'][0]['strBiographyPT'])
-    print("País = %s" % result['artists'][0]['strCountry'])
 
 if __name__ == "__main__":
     banda = input("Digite o nome da sua banda favorita: ")
