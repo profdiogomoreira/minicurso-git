@@ -10,6 +10,7 @@
 *  Sistemas de controle de versão (centralizado VS distribuído)
 * Origem e características
     * Linus Torvalds - 2005 (abril-junho)
+        * Conhecido por suas declarações polêmicas
 
 #### Comandos básicos
 * Configuração de nome e e-mail (`git config --global user.email <email>`)
